@@ -1,5 +1,7 @@
 # Skill Sample NodeJS Audio Player
 
+[![GuardRails badge](https://badges.production.guardrails.io/moul/skill-sample-nodejs-audio-player.svg)](https://www.guardrails.io)
+
 This project demonstrates the use of Alexa Audio Player for skills.
 
 - Multiple-streams folder contains an example skill to play multiple, pre-recorded audio streams, such as a basic podcast skill.
